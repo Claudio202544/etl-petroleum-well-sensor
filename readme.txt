@@ -55,3 +55,6 @@ Observações
 
 Tags
 ETL | Airflow | IoT | Sensores | Poços Petrolíferos | CSV Local
+
+Autor 
+Cláudio Agostinho Rodrigues da Costa
